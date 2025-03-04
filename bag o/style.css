@@ -1,3 +1,10 @@
+
+header {
+    background-color: #1d1d1d; 
+    padding: 10px;
+    color: white;
+    border:4px solid rgb(163, 163, 161);
+}
 body {
     background-color:#333;
     font-family: Arial, sans-serif;
@@ -5,17 +12,6 @@ body {
     padding: 0;
     text-align: center;
 }
-
-header {
-    background-color: #1d1d1d; 
-    padding: 10px;
-    color: white;
-    
-    
-    border:4px solid rgb(163, 163, 161);
-
-}
-
 main {
     padding: 20px;
 }
@@ -31,7 +27,6 @@ img{
     text-align: center;
     position: relative;
     border-top: 8px solid rgb(12, 12, 12) ;
-    align:center;
     margin-top: 10px;
     margin-left: 10%;
 }
@@ -47,7 +42,6 @@ img{
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
     margin-top: 10px;
     margin-left: 10%;
-    align:center;
 }
 
 .section3 {
@@ -60,12 +54,10 @@ img{
     border-top: 8px solid rgb(12, 12, 12) ;
     margin-top: 10px;
     margin-left: 10%;
-    align:center;
 }
 button{
     border-radius:10px;
- font-style:green;
- font-color:black;
+    font-style:green;
 }
 
 footer {
